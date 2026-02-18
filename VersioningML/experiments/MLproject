@@ -1,0 +1,6 @@
+name: MovieReviewClassification
+entry_points:
+  train_baseline:
+    command: "python scripts/train_baseline.py"
+  train_advanced:
+    command: "python scripts/train_advanced.py"
