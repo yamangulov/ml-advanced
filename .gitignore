@@ -2,12 +2,10 @@
 .venv/
 /auto-ml-part-2/practices/
 /auto-ml-part-2/PLAN.md
-/auto-ml-part-2/sample_submission.csv
 /notes.txt
 /CV/myapp/model.pkl
 **/*.jsonl
 /mlartifacts/
 /mlflow.db
 /VersioningML/experiments/artifacts/
-/TS-2/HW_test.csv
-/TS-2/HW_train.csv
+
