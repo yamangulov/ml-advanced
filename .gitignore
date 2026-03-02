@@ -9,3 +9,5 @@
 /mlartifacts/
 /mlflow.db
 /VersioningML/experiments/artifacts/
+/TS-2/HW_test.csv
+/TS-2/HW_train.csv
